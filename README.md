@@ -1,7 +1,7 @@
 # model_cultural_plants
-These are the Python notebooks that I used to process all of the input datasets for and output results from the SAHM species distribution modeling package. The research related to this analysis is submitted for publication and will be available as soon as possible. 
+These are the Python notebooks that I used to process all of the input datasets for and output results from the Software for Assisted Habitat Modeling (SAHM) species distribution modeling package. The research related to this analysis is submitted for publication and will be available as soon as possible. 
 
-I ran SAHM 2.0 with version 2.2.2 of the open source VisTrails scientific workflow platform. You can read more about [VisTrails](https://www.vistrails.org//index.php/Main_Page) and [SAHM](https://doi.org/10.1111/j.1600-0587.2012.07815.x). 
+I ran SAHM 2.0 with version 2.2.2 of the open source workflow platform VisTrails. You can read more about [VisTrails](https://www.vistrails.org//index.php/Main_Page) and [SAHM](https://doi.org/10.1111/j.1600-0587.2012.07815.x). 
 
 ### Notebooks
 1. iNat_SAHM.ipynb: Create species observation datasets from research grade iNaturalist observations and combine any existing observations from my own datasets. Also used to create target group background points using all recent research grade observations of plants. 
